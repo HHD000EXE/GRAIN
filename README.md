@@ -4,3 +4,5 @@ The data collection and experiment execution are all on physics experiments, we 
 
 How to run the project:
 The data is processed and the ViT is configured following the way described in the paper, download the entire repo and run the Vit.py.
+
+We recommend you run the Vit.py within an environment that supports GPU acceleration. 
