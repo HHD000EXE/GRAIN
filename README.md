@@ -10,6 +10,7 @@ The data is processed and the ViT is configured following the way described in t
 We suggest installing the Cuda environment to accelerate the model training process, the following are links for instructions on PyTorch installation and Anaconda environment setup:
 
 https://pytorch.org/
+
 https://docs.anaconda.com/working-with-conda/environments/
 
 
