@@ -15,5 +15,7 @@ https://docs.anaconda.com/working-with-conda/environments/
 
 
 Once the Anaconda environment is set and the required Python libraries are installed, use the following command to train the model from scratch:
+
 conda activate YourEnvironment
+
 python3 ViT.py
